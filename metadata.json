@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Trivia Quest",
+  "description": "Un juego de trivial multijugador premium con un tablero digital dinámico y preguntas generadas en tiempo real por IA (Gemini).",
+  "requestFramePermissions": []
+}
